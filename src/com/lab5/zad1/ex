@@ -1,0 +1,8 @@
+Zły pies
+
+1. Pies może mieć przyjaciela (jeżeli ma, to jest to przyjaciel na całe życie, nigdy się nie zmieni
+2. Zły pies umie atakować dowolne zwierzę
+3. Zły pies nigdy nie zaatakuje siebie
+4. Zły pies nigdy nie zaatakuje swojego przyjaciela (jeżeli go ma)
+5. Jeżeli zły pies ma przyjaciela, który jest też złym psem, podczas atakowania atakują obydwoje
+6. Jeżeli atakowane zwierzę jest złym psem - odgryzie się atakującemu
