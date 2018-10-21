@@ -22,4 +22,4 @@ ex2
 8. Jak zaimplementujesz figurę w przestrzeni? z kolorem?
 9. Jak zaimplementujesz malowanie obiektów na ekranie?
 
-https://user-images.githubusercontent.com/16723040/47269646-1ecb8b00-d561-11e8-9c50-3d1f5ae28e8c.png
+![ex2](https://user-images.githubusercontent.com/16723040/47269670-94cff200-d561-11e8-82e5-6970e66d1e02.png)
