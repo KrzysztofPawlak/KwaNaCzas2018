@@ -21,3 +21,5 @@ ex2
 7. Jak zaimplementujesz graniastosłupy
 8. Jak zaimplementujesz figurę w przestrzeni? z kolorem?
 9. Jak zaimplementujesz malowanie obiektów na ekranie?
+
+https://user-images.githubusercontent.com/16723040/47269646-1ecb8b00-d561-11e8-9c50-3d1f5ae28e8c.png
